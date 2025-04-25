@@ -1,6 +1,6 @@
 # Hi! 👋  
 
-I'm a Computer Science student with a strong interest Quantitative Finance. Passionate about solving complex problems. I'm always eager to learn new technologies and tackle challenging problems.  
+I'm a Computer Science student with a strong interest in Cybersecurity. Passionate about solving complex problems. I'm always eager to learn new technologies and tackle challenging problems.  
 
 
 ## 💼 Experiences  
