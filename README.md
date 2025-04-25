@@ -7,6 +7,5 @@ I'm a Computer Science student with a strong interest Quantitative Finance. Pass
 | Roles                      | Company   | Duration             |  
 |----------------------------|----------|----------------------|  
 | IT Network Security Intern          | Bank Central Asia (BCA)   | Oct 2024 - Mar 2025  |
-| Quant Researcher (Virtual Job Simulation) | JPMorgan Chase & Co. | Apr 2025 - Present
 
 📫 Feel free to reach out via **[LinkedIn](https://www.linkedin.com/in/supandisaputra)** for networking or collaboration!  
